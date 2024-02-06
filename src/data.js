@@ -34,7 +34,7 @@ export const Blog = <Icon icon="devicon:linkedin" />;
   Add a second paragraph for the about me section.
 */
 export const moreInfo =
-  "I enjoy learning about technology and creating scripts to improve my productivity. I am interesting in backend development and machine learning. In my free time I play videogames!";
+  "I enjoy learning about technology and creating scripts to improve my productivity. I am interested in backend development and machine learning. In my free time I play videogames!";
 
 /* Skills
  ************************************************************** 
